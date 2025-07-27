@@ -14,6 +14,6 @@ public class Spawner : MonoBehaviour
     {
         var enemy = Instantiate(_prefab);
         enemy.transform.position = transform.position;
-        enemy.GetComponent<Enemy>().Initialized(_target);
+        enemy.Initialized(_target);
     }
 }
