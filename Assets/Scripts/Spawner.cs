@@ -2,7 +2,7 @@ using UnityEngine;
 
 public class Spawner : MonoBehaviour
 {
-    [SerializeField] private GameObject _prefab;
+    [SerializeField] private Enemy _prefab;
     [SerializeField] private Transform _target;
 
     private void Start()
