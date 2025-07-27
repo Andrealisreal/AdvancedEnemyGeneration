@@ -245,7 +245,7 @@ MonoBehaviour:
   - {fileID: 1836995856}
   - {fileID: 2055887818}
   - {fileID: 734422763}
-  _speed: 3
+  _speed: 4
 --- !u!1 &330585543
 GameObject:
   m_ObjectHideFlags: 0
@@ -963,7 +963,7 @@ MonoBehaviour:
   - {fileID: 341090183}
   - {fileID: 520184011}
   - {fileID: 616015291}
-  _speed: 3
+  _speed: 4
 --- !u!1 &1295548429
 GameObject:
   m_ObjectHideFlags: 0
@@ -1160,7 +1160,7 @@ MonoBehaviour:
   - {fileID: 627579206}
   - {fileID: 2056071659}
   - {fileID: 1707396721}
-  _speed: 3
+  _speed: 4
 --- !u!1 &1431395707
 GameObject:
   m_ObjectHideFlags: 0
@@ -1384,7 +1384,7 @@ MonoBehaviour:
   - {fileID: 2070420651}
   - {fileID: 431688502}
   - {fileID: 2088540111}
-  _speed: 3
+  _speed: 4
 --- !u!1 &1704261790
 GameObject:
   m_ObjectHideFlags: 0
